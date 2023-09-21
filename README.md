@@ -8,10 +8,10 @@
 <h2 align="center"><img src="Let's Grow Together.gif"></h2>
 <h2>About me</h2>
 
-👋 Hello, I'm Nirmal Soni, a college junior pursuing CSE at IIITDelhi. Passionate about technology and coding, I'm continuously expanding my knowledge and honing my skills in CS & WebD. I'm eager to collaborate on exciting projects and contribute to the open-source community. Currently seeking internships and opportunities to apply my classroom learnings in real-world scenarios. Let's connect and create something amazing together!
+👋 Hello, I'm Nirmal Soni, a college junior pursuing CSE at IIITDelhi. Passionate about technology and coding, I'm continuously expanding my knowledge and honing my skills in CS & WebD. I'm eager to collaborate on exciting projects and contribute to the open-source community. Currently seeking internships and opportunities to apply my classroom learnings in real-world scenarios. Let's connect and create something unique together!
  
 ⚡ Fun fact: I love connecting with people and learning about their journeys; it helps me open my mind to different perspectives on various domains.   
-💬 Ask me anything, and I will be more than happy to help :D
+💬 Ask me anything, and I will be more than happy to help. :D
 
 <h2>🛠Tech Stack</h2>
 
